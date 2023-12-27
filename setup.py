@@ -25,6 +25,7 @@ setup(
         "Topic :: Utilities",
     ],
     requirements=[
+        "django",
         "cryptography",
     ],
 )
