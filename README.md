@@ -1,7 +1,7 @@
 DJANGO ENCRYPTED FILE FIELD
 ---------------------------
 
-django-encrypted-file-field - A file field with encryption for Django.
+django-filefield-encrypted - An encrypted file field for Django.
 
 This will encrypt when saving and decrypt on reading files on the fly.
 Files will be stored in a directory other than MEDIA_ROOT, so not exposed through 'media/...'.
@@ -10,11 +10,11 @@ Files will be stored in a directory other than MEDIA_ROOT, so not exposed throug
 INSTALLATION
 ------------
 
-Install django-encrypted-file-field:
+Install django-filefield-encrypted:
 
 .. code:: shell
 
-    pip install django-encrypted-file-field
+    pip install django-filefield-encrypted
 
 Then add to your settings.py:
 
