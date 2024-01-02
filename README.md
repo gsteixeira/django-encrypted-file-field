@@ -1,4 +1,4 @@
-DJANGO ENCRYPTED FILE FIELD
+DJANGO FILE FIELD ENCRYPTED
 ---------------------------
 
 django-filefield-encrypted - An encrypted file field for Django.
